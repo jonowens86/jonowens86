@@ -1,6 +1,6 @@
 # Jonathan Owens' Portfolio
 
-Hello! My name is **Jonathan Owens**, and I am a student majoring in **Cyber Security**. I am retired Navy, a Father of 4 beautiful children and a husband to such an amazing woman. 
+Hello! My name is **Jonathan Owens**, and I am a student at Wright State University majoring in **Cyber Security**. I am retired Navy, a Father of 4 beautiful children and a husband to such an amazing woman. 
 
 ## Projects I am currently working on
 
